@@ -1,0 +1,12 @@
+flask>=3.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+waitress>=2.1.2
+openpyxl>=3.1.0
+
+# Local RAG System (TF-IDF 기반 - 완전 오프라인)
+scikit-learn>=1.0.0
+ctransformers>=0.2.27
+
+# PDF Processing
+PyMuPDF>=1.23.0
