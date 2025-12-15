@@ -3,6 +3,7 @@
 ## 📋 Project Overview
 
 SKH Tool Information Dashboard - A web-based dashboard for managing and visualizing tool information with automatic startup capabilities and offline deployment support.
+--> http://10.173.135.202:8060/dashboard 
 
 ## 🎯 Features
 
@@ -273,3 +274,4 @@ Created for SKH tool information management
 ## 📄 License
 
 Internal use only
+
